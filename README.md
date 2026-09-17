@@ -6,7 +6,7 @@
       <img src="https://cdn.dribbble.com/userupload/23137744/file/original-33aa4031ce49ea06d3808ec53067688d.gif" width="150" alt="gif"/>
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=200&size=18&pause=1000&color=BB6CFF&center=true&vCenter=true&width=435&lines=print%28%22Hello%2C+World!%22%29;Data+Analytics+%7C+Business+Intelligence;Dados%2C+Processos%2C+Resultados;Business+%2B+Data" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=200&size=18&pause=1000&color=BB6CFF&center=true&vCenter=true&width=435&lines=print%28%22Hello%2C+World!%22%29;Data+Analytics+%7C+Business+Intelligence;Dados%2C+Processos%2C+Resultados" alt="Typing SVG"/>
     </td>
   </tr>
 </table>
