@@ -35,11 +35,24 @@
 
 ### ▸ Projetos Iniciais
 
-* **[Dashboard de Análise de Catálogo de Livraria | Power BI](https://github.com/larissa-natalie/dashboard_livraria)**
-  Dashboard desenvolvido durante a Generation, explorando tratamento de dados, modelagem, DAX, KPIs, filtros e segmentações.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-* **[Análise Simples de Vendas e Frete | Olist](https://github.com/larissa-natalie/estudo_base_olist)**
-  Análise exploratória em Python sobre faturamento e custos logísticos no e-commerce brasileiro.
+**[Dashboard de Análise de Catálogo de Livraria | Power BI](https://github.com/larissa-natalie/dashboard_livraria)**
+
+Dashboard desenvolvido durante a Generation, explorando tratamento de dados, modelagem, DAX, KPIs, filtros e segmentações.
+
+</td>
+<td width="50%" valign="top">
+
+**[Análise Simples de Vendas e Frete | Olist](https://github.com/larissa-natalie/estudo_base_olist)**
+
+Análise exploratória em Python sobre faturamento e custos logísticos no e-commerce brasileiro.
+
+</td>
+  </tr>
+</table>
 
 ### ▸ Contato
 
