@@ -58,8 +58,7 @@ Análise exploratória em Python sobre faturamento e custos logísticos no e-com
 
 <div align="left">
 
-- **LinkedIn:** [linkedin.com/in/larissanatalie](https://linkedin.com/in/larissanatalie)
-- **E-mail:** [larissanatalieb@gmail.com](mailto:larissanatalieb@gmail.com)
+🌐 Portfólio: ... | 💼 LinkedIn: linkedin.com/in/larissanatalie | 📧 Contato: larissanatalieb@gmail.com
 
 </div>
 
